@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kalpesh50.attendanceapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "kalpesh50",
+    "extra": {
+      "eas": {
+        "projectId": "9d4c7dd9-11cd-4bca-9ded-75b6eef4c19b"
+      }
     }
   }
 }
